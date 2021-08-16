@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  padding-top: 4rem;
+}
+
+.title {
+  text-decoration: underline;
+  padding-bottom: 2em;
+}
+
+.btn {
+  margin: 1em;
+  padding: 1em;
+
+}
